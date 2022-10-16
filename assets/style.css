@@ -6,9 +6,16 @@
 header,
 footer {
     width: 100%;
-    height: 150px;
     background-color: purple;
     color: #e100e1;
+}
+
+header{
+    height: 170px;
+}
+
+footer{
+    height: 50px;
 }
 
 h1,
