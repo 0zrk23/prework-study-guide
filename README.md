@@ -8,7 +8,7 @@ This is a study guide of the prework for FSF boot camp, created bootcamp-ees who
 N/A
 
 ## Usage
-Using this study guide is simple. There are notes separated by the type of information. If you are having a hard time deciding on which topic to study, press Command+Option+I (MacOS) Control+Shift+I (Windows) or rightclick and select inspect. A console pannel should pop up, docked to the right side. Select the console tab and it will show you the list of all of the topics covered in the prework as well as suggest a random topic for you to study
+Using this study guide is simple. There are notes separated by the type of information; General Coding Information, HTML, CSS, JavaScript and Git. If you are having a hard time deciding on which topic to study, press Command+Option+I (MacOS) Control+Shift+I (Windows) or rightclick and select inspect to open Chrome DevTools. A console pannel should pop up docked to the right side. Select the console tab and it will show you the list of all of the topics covered in the prework as well as suggest a random topic for you to study
 
 ## Credits
 Contributers:
